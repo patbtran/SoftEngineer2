@@ -60,7 +60,7 @@ class SandwichMachine:
     def process_coins(self):
         #Returns the total calculated from coins inserted.
         #   Hint: include input() function here, e.g. input(how many quarters?: )
-        print("Please insert coins")
+        print("Please insert coins!!!")
         dollars_amount = int(input("How many dollars?: "))
         half_dollars_amount = int(input("How many half dollars?: "))
         quarters_amount = int(input("How many quarters?: "))
