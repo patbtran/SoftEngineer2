@@ -116,7 +116,7 @@ while True:
         print("Cheese: " + str(resources["cheese"]))
 #User decides that they want to turn off machine
     elif option == "off":
-        print("Turning off machine...")
+        print("Turning off machine haha....")
         break
 
     else:
